@@ -1,0 +1,142 @@
+CampusVirtual.API/appsettings.json
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.swp
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+
+# Visual Studio files
+.vs/
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.suo
+*.tlh
+*.tli
+*.tlb
+*.psess
+*.vsp
+*.vspx
+*.pyc
+*.pdb
+*.ipch/
+*.bak
+*.cache
+*.sln.docstates.lock
+*.scc
+
+# Visual Studio Code files
+.vscode/
+*.vsix
+*.vsixmanifest
+.project
+*.csproj.user
+*.suo.user
+*.dotCover
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+ipch/
+*.opendb
+*.VC.VC.opendb
+
+# ReSharper files
+_ReSharper*/
+*.ReSharper.*
+*.DotSettings.user
+
+# TeamCity files
+_TeamCity*
+*.tclog
+*.tcstate
+buildlog.txt
+
+# GhostDoc plugin settings
+*.ghostrider.user
+
+# AxoCover code coverage results
+axocover.data/*
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject build output
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Publish files
+_PublishedWebsites/
+*.pubxml
+*.publishsettings
+
+# StyleCop settings
+StyleCop.Cache
+
+# Build output
+build/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Log files
+*.log
+*.log.*
+
+# Resharper files
+_ReSharper*/
+
+# Rider files
+.idea/
+*.csproj.dotSettings.user
+
+# User settings and private files
+*.config.user
+*.config.private
+*.props.user
+*.csproj.user
+*.sln.dotSettings.user
+/.vs/Campus-Virtual-ServerSide/v17/.suo
+/.vs/Campus-Virtual-ServerSide/v17/.suo
+/.vs/Campus-Virtual-ServerSide/v17/.suo
+/.vs/Campus-Virtual-ServerSide/v17/.suo
